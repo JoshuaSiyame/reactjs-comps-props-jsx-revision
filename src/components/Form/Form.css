@@ -1,0 +1,16 @@
+#submitting-form{
+    padding: 2em;
+}
+
+.form-group{
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+
+.form-control{
+    padding: .5em 1em;
+    width: 400px;
+    border: 1px solid cornflowerblue;
+    border-radius: 3px;
+}
